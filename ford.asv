@@ -1,0 +1,9 @@
+function ford()
+    prompt = 'Do you want more edges? Y/N : ';
+    str = input(prompt,'s');
+    if str=='Y'
+        a = 'Y'
+    else
+        a=''
+    end
+end
